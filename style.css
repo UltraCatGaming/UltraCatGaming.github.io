@@ -1,0 +1,39 @@
+h1
+{
+	color: green;
+}
+
+body
+{
+	background-color: blue
+}
+
+#carte
+{
+
+ width: 800px;
+
+margin:0 auto;
+
+background-color: white;
+
+text-align: center;
+
+align-content: center;
+}
+a.bouton1 {
+display: block;
+width: 150px;
+line-height: 40px;
+background: url(http://2.bp.blogspot.com/-i0uDtWEeyLE/VoUt32pSFkI/AAAAAAAADUM/obESNovWmiM/s1600/bouton-orange.png);
+color: #000000;
+-webkit-transition: all 0.7s ease-out 0s;
+-moz-transition: all 0.7s ease-out 0s;
+transition: all 0.7s ease-out 0s;
+font-weight: bold;
+text-align: center;
+}
+a.bouton1:hover {
+background: url(http://3.bp.blogspot.com/-FzfYdG3-fyU/VoUt30PxyfI/AAAAAAAADUI/6R-bHnZI630/s1600/bouton-orange2.png);
+color: #ffffff;
+}
